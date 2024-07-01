@@ -5,3 +5,4 @@ This is a collection of scripts and configurations that I use to set up my perso
 ## Table of Contents
 
 - [Rainmeter](./rainmeter/README.md)
+- [Windows Terminal](./windows-terminal/README.md)
