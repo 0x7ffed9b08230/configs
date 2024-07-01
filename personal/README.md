@@ -6,3 +6,4 @@ This is a collection of scripts and configurations that I use to set up my perso
 
 - [Rainmeter](./rainmeter/README.md)
 - [Windows Terminal](./windows-terminal/README.md)
+- [Wallpapers](./wallpapers/README.md)

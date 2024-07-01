@@ -12,6 +12,7 @@
 - [Personal Machine](./personal/README.md)
   - [Rainmeter](./personal/rainmeter/README.md)
   - [Windows Terminal](./personal/windows-terminal/README.md)
+  - [Wallpapers](./personal/wallpapers/README.md)
 
 ## License
 
